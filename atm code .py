@@ -1,6 +1,6 @@
 card=(input("enter your card"))
 if card=="credit card"or "debit card":
-    print("credit card")
+    print("accepted here")
     atm=(input("enter your language"))
     if atm=="english" or "marathi":
         print("english")
